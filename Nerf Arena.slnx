@@ -8,8 +8,8 @@
   <Project Path="UnityEngine.TestRunner.csproj" />
   <Project Path="Mirror.Components.csproj" />
   <Project Path="Mirror.Examples.csproj" />
-  <Project Path="Mirror.Transports.csproj" />
   <Project Path="Mirror.Editor.csproj" />
+  <Project Path="Mirror.Transports.csproj" />
   <Project Path="Unity.TextMeshPro.Editor.csproj" />
   <Project Path="Unity.InternalAPIEngineBridge.004.csproj" />
   <Project Path="kcp2k.csproj" />
