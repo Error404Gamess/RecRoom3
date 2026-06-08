@@ -175,6 +175,7 @@ namespace Mirror
                 // instantiate a real physics collider on demand.
                 // TODO rotation??
                 // TODO different collier types??
+                //! uh oh stinky
                 GameObject temp = new GameObject("LagCompensatorTest");
                 temp.transform.position = capture.position;
                 BoxCollider tempCollider = temp.AddComponent<BoxCollider>();
